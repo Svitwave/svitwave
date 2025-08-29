@@ -38,7 +38,13 @@
 
 ### 📫 Контакти
 - 📧 Email: **svitwave@gmail.com**
-- 💬 Telegram: [@Svitwave]
+- 💬 Telegram: [@Svitwave](https://t.me/svitwave)
+- <p align="left">
+  <a href="https://www.linkedin.com/in/світлана-дуда-a85826251/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
 - 🌐 Portfolio (coming soon…)
 
 ---
