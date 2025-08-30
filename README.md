@@ -37,12 +37,11 @@
 ---
 
 ### 📫 Контакти
-- 📧 Email: **svitwave@gmail.com**
+
 - [![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:svitwave@gmail.com)
 
 - [![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/svitwave)
 
-- 💬 Telegram: [@Svitwave](https://t.me/svitwave)
 - <p align="left">
   <a href="https://www.linkedin.com/in/світлана-дуда-a85826251/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
