@@ -38,6 +38,10 @@
 
 ### 📫 Контакти
 - 📧 Email: **svitwave@gmail.com**
+- [![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:svitwave@gmail.com)
+
+- [![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/svitwave)
+
 - 💬 Telegram: [@Svitwave](https://t.me/svitwave)
 - <p align="left">
   <a href="https://www.linkedin.com/in/світлана-дуда-a85826251/" target="_blank">
@@ -49,10 +53,6 @@
 
 ---
 
-### ✨ Fun fact
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF66B3&center=true&width=500&lines=Люблю+кодити+і+навчатись+🚀;Мрію+стати+FullStack+Dev+💻;Працюю+над+собою+кожен+день+🔥" alt="Typing SVG" />
-</p>
 ### ✨ Fun fact
 
 <p align="center">
