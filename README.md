@@ -95,16 +95,14 @@ Participated in proofreading and improving materials. Listed among official cont
 </p>
 
 ---
+
 ### 🌐 Languages
 
-🇬🇧 English  
-<img src="https://img.shields.io/badge/English-B2-blue?style=flat-square" />
-
-🇺🇦 Ukrainian  
-<img src="https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square" />
-
-🇵🇱 Polish  
-<img src="https://img.shields.io/badge/Polish-A2-lightgrey?style=flat-square" />
+| Language  | Level |
+|----------|--------|
+| 🇬🇧 English   | **B1** |
+| 🇺🇦 Ukrainian | **Native** |
+| 🇵🇱 Polish    | **A2** |
 
 ---
 
