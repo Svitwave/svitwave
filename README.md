@@ -27,6 +27,11 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="300" alt="Girl power coding"/>
+</p>
+
+---
 
 ### 💼 My Projects  
 
@@ -77,11 +82,7 @@ Here I practiced **clean HTML**, **modular CSS**, **light JS**, and **attention 
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="300" alt="Girl power coding"/>
-</p>
 
----
 
 💚 Contributor to the Ukrainian translation of the [Modern JavaScript Tutorial](https://github.com/javascript-tutorial/uk.javascript.info).  
 Participated in proofreading and improving materials. Listed among official contributors.
