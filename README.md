@@ -21,6 +21,13 @@
 
 ---
 
+### 🚀 Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,figma" />
+</p>
+
+---
+
 ### 💼 My Projects  
 
 <p align="center">
@@ -79,12 +86,7 @@ Here I practiced **clean HTML**, **modular CSS**, **light JS**, and **attention 
 💚 Contributor to the Ukrainian translation of the [Modern JavaScript Tutorial](https://github.com/javascript-tutorial/uk.javascript.info).  
 Participated in proofreading and improving materials. Listed among official contributors.
 
----
 
-### 🚀 Technologies
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,figma" />
-</p>
 
 ---
 
