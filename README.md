@@ -95,6 +95,12 @@ Participated in proofreading and improving materials. Listed among official cont
 </p>
 
 ---
+![English](https://img.shields.io/badge/English-B1-blue?style=flat-square)
+
+![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
+
+![Polish](https://img.shields.io/badge/Polish-A2-lightgrey?style=flat-square)
+---
 
 ### 📫 Contacts
 
