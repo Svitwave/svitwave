@@ -26,10 +26,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,figma" />
 </p>
 
----
-<p align="center">
-  <img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="300" alt="Girl power coding"/>
-</p>
+
 
 ---
 
