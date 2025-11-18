@@ -100,9 +100,9 @@ Participated in proofreading and improving materials. Listed among official cont
 
 | Language  | Level |
 |----------|--------|
-| 🇬🇧 English   | **B1** |
-| 🇺🇦 Ukrainian | **Native** |
-| 🇵🇱 Polish    | **A2** |
+|  English   | **B1** |
+|  Ukrainian | **Native** |
+|  Polish    | **A2** |
 
 ---
 
