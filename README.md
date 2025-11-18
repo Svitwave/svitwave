@@ -1,124 +1,65 @@
-<!-- Header -->
-<h1 align="center">
-  Привіт 👋, я <span style="color:#ff66b3">Свєтік</span>  
-</h1>
-<h3 align="center">💻 FullStack Developer in progress 🚀</h3>
+<h1 align="center">Hi 👋, I'm <span style="color:#ff66b3">Svietik</span></h1>
+<h3 align="center">FullStack Developer in progress 🚀</h3>
 
 ---
 
-### 🧑‍💻 Про мене  
-🌸 Вчуся кодувати і кайфую від цього!  
-✨ Вже знаю: **HTML, CSS, JavaScript**  
-⚡ На черзі: **React** + бекенд-технології  
-🎯 Мета: стати впевненим **FullStack Developer**  
+### 🧑‍💻 About Me
+- Passionate about web development and learning fast  
+- Skilled in **HTML, CSS, JavaScript**  
+- Currently mastering **React** and exploring backend development  
+- Goal: become a confident and versatile **FullStack Developer**
 
 ---
 
-### 🎨 Анімаційка для настрою
-<p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="300" alt="Coding cat"/>
-</p>
----
----
+### 💼 Projects
 
-### 💼 Мої проєкти  
+#### 👥 Team Projects
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250" alt="Projects animation"/>
-</p>
+**CodeV1be**  
+🔗 https://diamond-foxua.github.io/codeV1be-js/  
+Role: **Scrum Master** + contributor  
+- Team coordination, sprint planning  
+- JS optimization, responsive layout, testing  
+- Focus on clean UI and user experience  
 
-#### 👥 Командні проєкти  
-
-<p align="center">
-  <a href="https://diamond-foxua.github.io/codeV1be-js/" target="_blank">
-    <img src="https://img.shields.io/badge/CodeV1be-%F0%9F%93%9A-blueviolet?style=for-the-badge" alt="CodeV1be Badge"/>
-  </a>
-</p>
-
-🧠 **CodeV1be** — сучасний вебсайт про книги, читання та події.  
-Я виступала як **Scrum Master**: координувала роботу команди, планувала спринти та підтримувала синхронізацію задач.  
-Також брала участь у **JS-оптимізації**, **адаптивній верстці** та тестуванні.  
-Проєкт поєднує чистий дизайн, інтерактивність і фокус на UX.  
+**EcoTote**  
+🔗 https://diamond-foxua.github.io/ecotote/  
+Role: **Scrum Master**  
+- Process organization, daily standups  
+- Responsive layout and styling  
+- Calm design, animations, structured content
 
 ---
 
-<p align="center">
-  <a href="https://diamond-foxua.github.io/ecotote/" target="_blank">
-    <img src="https://img.shields.io/badge/EcoTote-%F0%9F%8C%B1-brightgreen?style=for-the-badge" alt="EcoTote Badge"/>
-  </a>
-</p>
+#### 🌸 Personal Project
 
-🌿 **EcoTote** — проєкт про екологічні сумки та свідоме споживання.  
-Моя роль: **Scrum Master** — організація процесу, проведення щоденних стендапів, підтримка команди.  
-Також долучалася до **верстки та стилізації секцій**, зокрема адаптації під різні пристрої.  
-Проєкт вирізняється приємною палітрою, плавними анімаціями й структурованим контентом.  
+**RedCross**  
+🔗 https://svitwave.github.io/redcross/  
+- Fully built from scratch  
+- Clean HTML structure, modular CSS, lightweight JS  
+- Informative, structured, emotionally-focused design
 
 ---
 
-#### 🌸 Особистий проєкт  
-
-<p align="center">
-  <a href="https://svitwave.github.io/redcross/" target="_blank">
-    <img src="https://img.shields.io/badge/RedCross-%E2%9D%A4-red?style=for-the-badge" alt="RedCross Badge"/>
-  </a>
-</p>
-
-❤️ **RedCross** — мій особистий проєкт, створений із нуля.  
-Виконала все самостійно: **структура**, **стилізація**, **адаптивність**.  
-Сайт присвячений гуманітарній тематиці, інформативний про напрямки благодійної організації зосереджений на емоційному дизайні й чіткій подачі контенту.  
-Тут я відточувала **чистий HTML**, **модульний CSS** **легкий js** та **увагу до деталей**.  
+### 💚 Contribution
+Contributor to the Ukrainian translation of the  
+**Modern JavaScript Tutorial**  
+🔗 https://github.com/javascript-tutorial/uk.javascript.info
 
 ---
-<p align="center">
-  <img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="300" alt="Girl power coding"/>
-</p>
 
----
-💚 Контриб’ютор українського перекладу [Modern JavaScript Tutorial](https://github.com/javascript-tutorial/uk.javascript.info).  
-Брала участь у перевірці та вдосконаленні матеріалів. Внесена до офіційного списку учасників.
----
-
-### 🚀 Технології
+### 🚀 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,figma" />
 </p>
 
 ---
 
-### 📊 GitHub статистика
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=svitwave&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svitwave&layout=compact&theme=tokyonight" height="165"/>
-</p>
+### 📫 Contacts
+- **Email:** svitwave@gmail.com  
+- **Telegram:** https://t.me/svitwave  
+- **LinkedIn:** https://www.linkedin.com/in/світлана-дуда-a85826251/
 
 ---
 
-### 📫 Контакти
-
-- [![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:svitwave@gmail.com)
-
-- [![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/svitwave)
-
-- <p align="left">
-  <a href="https://www.linkedin.com/in/світлана-дуда-a85826251/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
-- 🌐 Portfolio (coming soon…)
-
----
-![Profile views](https://komarev.com/ghpvc/?username=svitwave&color=blue)
-
----
-[![trophy](https://github-profile-trophy.vercel.app/?username=svitwave&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### ✨ Fun fact
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF66B3&center=true&vCenter=true&width=600&lines=Люблю+кодити+і+навчатись+🚀;Мрію+стати+FullStack+Dev+💻;Працюю+над+собою+кожен+день+🔥" alt="Typing SVG" />
-</p>
-
-
+<img src="https://komarev.com/ghpvc/?username=svitwave&color=blue" alt="profile views"/>
