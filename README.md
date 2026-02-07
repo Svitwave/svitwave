@@ -8,8 +8,8 @@
 
 ### 🧑‍💻 About Me  
 🌸 Learning to code and absolutely loving it!  
-✨ Already familiar with: **HTML, CSS, JavaScript**  
-⚡ Next steps: **React** + backend technologies  
+✨ Already familiar with: **HTML, CSS, Node.js, JavaScript**  
+⚡ Next steps: backend technologies  
 🎯 Goal: become a confident **FullStack Developer**  
 
 ---
