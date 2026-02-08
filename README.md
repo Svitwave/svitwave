@@ -99,9 +99,9 @@ Participated in proofreading and improving materials. Listed among official cont
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterhst-p-anurag-hazras-projects.vercel.app/api?username=svitwave&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats-git-masterhst-p-anurag-hazras-projects.vercel.app/api/top-langs/?username=svitwave&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
+  <img src="https://metrics.lecoq.io/svitwave?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.sections=most-used&languages.details=percentage&theme=tokyonight" alt="Metrics" width="400" />
 </p>
+
 
 
 ---
