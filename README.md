@@ -134,6 +134,12 @@ Participated in proofreading and improving materials. Listed among official cont
 </p>
 
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svitwave&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
+</p>
+
+
+
 ---
 
 ### ✨ Fun Fact
