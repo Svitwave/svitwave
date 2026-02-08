@@ -128,15 +128,7 @@ Participated in proofreading and improving materials. Listed among official cont
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=svitwave&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/svitwave?style=flat-square&logo=github&color=blue" alt="Stars" />
-  <img src="https://img.shields.io/github/followers/svitwave?style=flat-square&logo=github&color=red" alt="Followers" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svitwave&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=svitwave&theme=onedark&v=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
