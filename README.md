@@ -126,14 +126,6 @@ Participated in proofreading and improving materials. Listed among official cont
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=svitwave&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=svitwave&theme=onedark&v=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
----
-
 ### ✨ Fun Fact
 
 <p align="center">
